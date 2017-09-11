@@ -8,7 +8,7 @@
 
 > Include a photo of your whole team
 
-[Team xxx](images/)
+![Team xxx](images/)
 
 ## 3. Team Goal
 
