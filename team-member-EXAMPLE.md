@@ -1,7 +1,7 @@
 # Exemplary Example
 > 1. Replace the above heading with your name
 
-![Caption: Me doing something fun](images/my_image.jpg)
+![Caption: Me doing something fun](images/seb_sippewisset_small.jpg)
 > 2. Add a picture of yourself doing something you enjoy outside school (hiking, cooking, playing music, reading, etc) to the `images` folder and link to it here with a descriptive caption.
 
 ## Course Goals
