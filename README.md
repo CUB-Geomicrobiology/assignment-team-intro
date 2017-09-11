@@ -10,9 +10,9 @@ If you see this `README`, you have already successfully accepted the assignment 
 
  1. Create a new branch for your edits
  2. Make edits in your branch:
-   - copy the contents of the `team-member-EXAMPLE.md` file into a new `team-member-YOURNAME.md` file for yourself
-   - answer the questions in the new `team-member-YOURNAME.md` file
-   - edit the `team-assignment.md` file to make sure it links correctly to your `team-member-YOURNAME.md`
+    - copy the contents of the `team-member-EXAMPLE.md` file into a new `team-member-YOURNAME.md` file with your name
+    - complete the assignment in the new `team-member-YOURNAME.md` file
+    - edit the `team-assignment.md` file to make sure it links correctly to your `team-member-YOURNAME.md`
  3. Merge your branch back into the `master` (base = `master`)
  4. Fill out the rest of the `team-assignment.md` file together with your team (again, work in branches or coordinate who is editing the file).
 
@@ -22,13 +22,13 @@ Once you and your team have completed the assignment, submit by creating a pull 
 
 ## Grading
 
-This assignment will be graded based solely on completeness (i.e. if you fill out all questions and submit it in time you get full marks). See the syllabus for information on the late policy for this class.
+This assignment will be graded based on completeness and formatting (i.e. if you and your team fill out all questions, make sure the links work and files are cleaned-up, and submit it in time you get full marks). See the syllabus for information on the late policy for this class.
 
-Criteria    | Weight | Complete | Incomplete
-------------|--------|----------|-----------
-Team portion (completing `team-assignment.md`) | | |
-Individual portion (completing all  `team-member-....md` files) | | |
-Question 1  | 20%    |          |
-Question 2  | 40%    |          |
-Question 3  | 40%    |          |
-**Overall** |        |          |
+Criteria                                                       | Max  | Score
+---------------------------------------------------------------|------|------
+Team overview (completing `team-assignment.md`)                | 40%  |
+Team member files (completing all  `team-member-???.md` files) | 40%  |
+Formatting<sup>‡</sup>                                         | 20%  |
+**Overall**                                                    | 100% |
+
+<sup>‡</sup>: Formatting includes everything related to proper functioning of the assignment, i.e. that images show up correctly, links work properly, and that inline assignment instructions (the lines starting with ">") are removed from the final `team-assignment.md` and `team-member-???.md` files. 
