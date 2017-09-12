@@ -1,6 +1,6 @@
 # Introduction to Team Assignments
 
-This is the `README` for the introductory team assignment. For a step-by-step guide on how to complete this assignment, please watch the video tutorial. This is a team assignment so all team members should contribute to it. If you do get stuck with any of the technical aspects surrounding the assignment (access, editing, submission, etc.), see if one of your teammates can help you. If all else fails, please email the instructor for help.
+This is the `README` for the introductory team assignment. For a step-by-step guide on how to complete this assignment, please watch the video tutorial. This is a team assignment so all team members should contribute to it. If you do get stuck with any of the technical aspects surrounding the assignment (access, editing, branches, merging, etc.), see if one of your teammates can help you. If all else fails, please email the instructor for help.
 
 ## Setup
 
