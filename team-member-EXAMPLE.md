@@ -1,8 +1,8 @@
 # Exemplary Example
 > 1. Replace the above heading with your name
 
-![Caption: Me doing something fun](images/example.jpg)
-> 2. Add a picture of yourself doing something you enjoy outside school (hiking, cooking, playing music, reading, etc) to the `images` folder and link to it here with a descriptive caption.
+![Caption: Me doing something fun](images/example.jpg "Title: Me doing something fun")
+> 2. Add a picture of yourself doing something you enjoy outside school (hiking, cooking, playing music, reading, etc) to the `images` folder and link to it here with a descriptive caption (for screen readers) and title (for mouseover). They can be the same.
 
 ## Course Goals
 > 3. Copy your `Course Goals` section from the Intro to GitHub assignment
